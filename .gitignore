@@ -1,0 +1,12 @@
+# Los videos derivados no van al repositorio: se regeneran con los scripts,
+# y GitHub rechaza archivos de mas de 100 MB.
+video_estable.mp4
+resultado.mp4
+
+# Utilidad para revisar las regiones durante el desarrollo.
+ver_regiones.py
+
+# Respaldo de las regiones calibradas y su imagen de referencia,
+# para restaurar despues de marcar regiones en clase.
+regiones_calibradas.pkl
+referencia_regiones.png
